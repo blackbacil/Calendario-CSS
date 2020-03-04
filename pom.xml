@@ -34,7 +34,7 @@
 	</dependencies>
 	<repositories>
 		<repository>
-			<id>componentes2</id>
+			<id>Componentes</id>
 			<url>https://github.com/blackbacil/componentes2/raw/master/repository</url>
 		</repository>
 	</repositories>
